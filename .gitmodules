@@ -10,3 +10,6 @@
 [submodule "views-widgets-samples"]
 	path = views-widgets-samples
 	url = https://github.com/android/views-widgets-samples.git
+[submodule "gsy_github_app_flutter"]
+	path = gsy_github_app_flutter
+	url = https://github.com/CarGuo/gsy_github_app_flutter.git
