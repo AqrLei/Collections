@@ -4,3 +4,6 @@
 [submodule "MultiStatePage"]
 	path = MultiStatePage
 	url = https://github.com/Zhao-Yan-Yan/MultiStatePage.git
+[submodule "Cockroach"]
+	path = Cockroach
+	url = https://github.com/android-notes/Cockroach.git
