@@ -7,3 +7,6 @@
 [submodule "Cockroach"]
 	path = Cockroach
 	url = https://github.com/android-notes/Cockroach.git
+[submodule "views-widgets-samples"]
+	path = views-widgets-samples
+	url = https://github.com/android/views-widgets-samples.git
