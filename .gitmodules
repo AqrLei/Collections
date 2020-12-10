@@ -1,0 +1,6 @@
+[submodule "hi-dhl"]
+	path = hi-dhl
+	url = https://github.com/hi-dhl/hi-dhl.git
+[submodule "MultiStatePage"]
+	path = MultiStatePage
+	url = https://github.com/Zhao-Yan-Yan/MultiStatePage.git
