@@ -13,3 +13,6 @@
 [submodule "gsy_github_app_flutter"]
 	path = gsy_github_app_flutter
 	url = https://github.com/CarGuo/gsy_github_app_flutter.git
+[submodule "TDialog"]
+	path = TDialog
+	url = https://github.com/Timmy-zzh/TDialog.git
