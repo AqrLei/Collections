@@ -16,3 +16,6 @@
 [submodule "TDialog"]
 	path = TDialog
 	url = https://github.com/Timmy-zzh/TDialog.git
+[submodule "smart-show"]
+	path = smart-show
+	url = https://github.com/zhuzhiqiang-series/smart-show.git
