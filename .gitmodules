@@ -19,3 +19,6 @@
 [submodule "smart-show"]
 	path = smart-show
 	url = https://github.com/zhuzhiqiang-series/smart-show.git
+[submodule "BigImageViewPager"]
+	path = BigImageViewPager
+	url = https://github.com/SherlockGougou/BigImageViewPager.git
