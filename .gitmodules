@@ -22,3 +22,6 @@
 [submodule "BigImageViewPager"]
 	path = BigImageViewPager
 	url = https://github.com/SherlockGougou/BigImageViewPager.git
+[submodule "SuperTextView"]
+	path = SuperTextView
+	url = https://github.com/lygttpod/SuperTextView.git
