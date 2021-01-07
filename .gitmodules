@@ -28,3 +28,6 @@
 [submodule "ScrollTextView"]
 	path = ScrollTextView
 	url = https://github.com/AnyLifeZLB/ScrollTextView.git
+[submodule "coil"]
+	path = coil
+	url = https://github.com/coil-kt/coil.git
