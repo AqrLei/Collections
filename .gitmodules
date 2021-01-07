@@ -25,3 +25,6 @@
 [submodule "SuperTextView"]
 	path = SuperTextView
 	url = https://github.com/lygttpod/SuperTextView.git
+[submodule "ScrollTextView"]
+	path = ScrollTextView
+	url = https://github.com/AnyLifeZLB/ScrollTextView.git
