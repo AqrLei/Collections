@@ -34,3 +34,6 @@
 [submodule "glide"]
 	path = glide
 	url = https://github.com/bumptech/glide.git
+[submodule "SmoothRefreshLayout"]
+	path = SmoothRefreshLayout
+	url = https://github.com/dkzwm/SmoothRefreshLayout.git
