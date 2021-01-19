@@ -37,3 +37,9 @@
 [submodule "SmoothRefreshLayout"]
 	path = SmoothRefreshLayout
 	url = https://github.com/dkzwm/SmoothRefreshLayout.git
+[submodule "ImmersionBar"]
+	path = ImmersionBar
+	url = https://github.com/gyf-dev/ImmersionBar.git
+[submodule "GSYVideoPlayer"]
+	path = GSYVideoPlayer
+	url = https://github.com/CarGuo/GSYVideoPlayer.git
