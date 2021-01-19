@@ -43,3 +43,6 @@
 [submodule "GSYVideoPlayer"]
 	path = GSYVideoPlayer
 	url = https://github.com/CarGuo/GSYVideoPlayer.git
+[submodule "ShortcutBadger"]
+	path = ShortcutBadger
+	url = https://github.com/leolin310148/ShortcutBadger.git
