@@ -52,3 +52,6 @@
 [submodule "KotlinJetpackInAction"]
 	path = KotlinJetpackInAction
 	url = https://github.com/chaxiu/KotlinJetpackInAction.git
+[submodule "BGAQRCode-Android"]
+	path = BGAQRCode-Android
+	url = https://github.com/bingoogolapple/BGAQRCode-Android.git
