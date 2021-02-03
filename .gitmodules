@@ -49,3 +49,6 @@
 [submodule "MySelfGlide-BitmapCache"]
 	path = MySelfGlide-BitmapCache
 	url = https://github.com/cWX411904/MySelfGlide-BitmapCache.git
+[submodule "KotlinJetpackInAction"]
+	path = KotlinJetpackInAction
+	url = https://github.com/chaxiu/KotlinJetpackInAction.git
