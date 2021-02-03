@@ -46,3 +46,6 @@
 [submodule "ShortcutBadger"]
 	path = ShortcutBadger
 	url = https://github.com/leolin310148/ShortcutBadger.git
+[submodule "MySelfGlide-BitmapCache"]
+	path = MySelfGlide-BitmapCache
+	url = https://github.com/cWX411904/MySelfGlide-BitmapCache.git
