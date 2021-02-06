@@ -55,3 +55,6 @@
 [submodule "BGAQRCode-Android"]
 	path = BGAQRCode-Android
 	url = https://github.com/bingoogolapple/BGAQRCode-Android.git
+[submodule "WeworkAccessibility"]
+	path = WeworkAccessibility
+	url = https://github.com/Amoryan/WeworkAccessibility.git
